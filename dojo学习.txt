@@ -1,0 +1,6 @@
+1.dojo加载模块：  require
+// 新代码: 加载“dojo.fx”模块  
+dojo.require("dojo.fx");  
+
+2.未尝试的功能：
+其他 NodeList 函数
